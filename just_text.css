@@ -1,0 +1,28 @@
+body{
+  background-color: #ddd;
+  text-align: center;
+  padding: none;
+}
+.header-box{
+  height: 180px;
+  border-bottom: solid 2px #999;
+  margin-top: 0px;
+  padding: 5px 0px 55px 0px;
+}
+h1{
+  font-size: 60pt;
+  font-family: sans-serif;
+}
+h2{
+  font-family: sans-serif;
+}
+.text-wrap{
+  width: 40pc;
+  background-color: #eee;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  padding: 10px 25px 30px 25px;
+  text-align: justify;
+  font-size: 18pt;
+}
